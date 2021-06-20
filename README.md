@@ -2,3 +2,5 @@
 POC's on various Design Patterns C# Code snippets
 
 📗 https://github.com/RajendraTaradale/design-patterns-1 - All Design Patterns code snippets
+
+![Screenshot](https://github.com/RajendraTaradale/DesignPatternsCSharp/blob/master/Rajendra%20Taradale%20Design%20Patterns.png)
